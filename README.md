@@ -1,2 +1,2 @@
 # MNIST
-My playground for the basic deep learning project MLP,CNN
+My playground for the basic deep learning project in MNIST using MLP,CNN etc.
